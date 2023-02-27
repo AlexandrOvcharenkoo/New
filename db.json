@@ -5,6 +5,18 @@
             "name": "Alex",
             "photo_url": "https://media.npr.org/assets/img/2021/08/11/gettyimages-1279899488_wide-f3860ceb0ef19643c335cb34df3fa1de166e2761-s1100-c50.jpg",
             "balance": 1000
+        },
+        {
+            "id": 2,
+            "name": "Boba",
+            "photo_url": "https://s9.travelask.ru/system/images/files/001/410/622/wysiwyg_jpg/35.jpg?1591297222",
+            "balance": 3000
+        },
+        {
+            "id": 3,
+            "name": "Diba",
+            "photo_url": "https://natworld.info/wp-content/uploads/2020/04/gora-fudzi.jpg",
+            "balance": 4000
         }
     ],
     "products": [
@@ -15,6 +27,46 @@
             "price": 40000,
             "author_id": 1,
             "photo_url": "https://cdn.thewirecutter.com/wp-content/media/2022/07/laptop-under-500-2048px-acer-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Key",
+            "description": "New USA key",
+            "price": 500,
+            "author_id": 1,
+            "photo_url": "https://images.prom.ua/3719066073_klyuch-gaechnyj-rozhkovyj.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Myltivarka",
+            "description": "New USA good multivarka",
+            "price": 3000,
+            "author_id": 2,
+            "photo_url": "https://images.prom.ua/1185726951_multivarka-rotex-rmc-507-b.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Skovorodka",
+            "description": "New USA metal skovorodka",
+            "price": 1000,
+            "author_id": 2,
+            "photo_url": "https://domsky.com.ua/components/com_jshopping/files/img_products/230546-skovorodka-d24-rotex-rc132m-24-modena-0.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Spoon",
+            "description": "New USA metal spoon",
+            "price": 200,
+            "author_id": 3,
+            "photo_url": "https://vzolote.com.ua/16557-thickbox_default/sribna-desertna-lozhka-fantaziya-art-8100206.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Multitool",
+            "description": "New USA functional multitool",
+            "price": 1500,
+            "author_id": 3,
+            "photo_url": "https://c.428.ua/img/3482114/3000/2000/multitul_uad_black_uad-00b~1505~1199.jpg"
         }
     ]
 }
