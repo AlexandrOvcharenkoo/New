@@ -17,11 +17,7 @@
         {
             "id": 3,
             "name": "Diba",
-<<<<<<< HEAD
-            "sirname": "Orange",
-=======
             "sirname": "Oranger",
->>>>>>> 13d83ac53dd3a56010521ae2e7816fa61abac8d9
             "photo_url": "https://natworld.info/wp-content/uploads/2020/04/gora-fudzi.jpg",
             "balance": 4000
         }
