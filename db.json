@@ -10,14 +10,14 @@
         {
             "id": 2,
             "name": "Boba",
-            "sirname": "Ovcharenko",
+            "sirname": "Thorin",
             "photo_url": "https://s9.travelask.ru/system/images/files/001/410/622/wysiwyg_jpg/35.jpg?1591297222",
             "balance": 3000
         },
         {
             "id": 3,
             "name": "Diba",
-            "sirname": "Ovcharenko",
+            "sirname": "Orange",
             "photo_url": "https://natworld.info/wp-content/uploads/2020/04/gora-fudzi.jpg",
             "balance": 4000
         }
